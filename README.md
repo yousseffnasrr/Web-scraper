@@ -15,3 +15,8 @@ This repository contains my collection of web scraping scripts and tools, built 
 - `Selenium`, `BeautifulSoup`, `Requests`  
 - `Pandas` for data structuring  
 - `time`, `wait` for safe scraping delays 
+
+---
+
+## ⭐ Purpose 
+Make data collection easier and reproducible for research projects.
